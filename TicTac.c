@@ -1,8 +1,4 @@
-#include <stdio.h>
-#include <string.h>
-#include <stdlib.h>
-#include <time.h>
-
+#include <stdio.h>
 int main(int argc, char const *argv[])
 {
     int restart;
